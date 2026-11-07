@@ -202,3 +202,6 @@ This repository serves as the official landing page for EVERSPACE 2 – Titans. 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of EVERSPACE 2 – Titans today!**
+
+---
+**Last updated:** 2026-11-07 23:11:47 UTC
